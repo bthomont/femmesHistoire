@@ -1,0 +1,78 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Raleway';
+  font-weight: 300;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  color: #e9e9e9;
+  background-color: #15172c;
+
+  background-image: url('../public/images/homeBackground.jpg');
+  background-size: cover;
+  background-position: center; 
+}
+
+h2 {
+  font-size: 1.35em;
+  font-weight: 400;
+
+}
+
+.button {
+  background: rgba(0,0,0,0.15);
+  border-radius: 50px;
+  padding-right: 40px;
+  padding-left: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.button:hover {
+  background: rgb(214,10,132);
+  background: linear-gradient(-150deg, #f04164 0%, #4b4fad 100%);
+
+}
+
+.buttonGold {
+  background: rgba(0,0,0,0.15);
+  border-radius: 50px;
+  padding-right: 40px;
+  padding-left: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.buttonGold:hover {
+  background: rgb(214, 177, 10);
+  background: linear-gradient(-150deg, #f3d473 0%, #d5a955 100%);
+  color: #15172c;
+
+}
+
+.progressBar {
+  background: rgb(214,10,132);
+  background: linear-gradient(133deg, #f04164 0%, #4b4fad 100%);
+}
+
+.progressBarGold {
+  background: rgb(214, 177, 10);
+  background: linear-gradient(133deg, #f3d473 0%, #d5a955 100%);
+}
+
+.signature {
+  font-family: 'Alex Brush';
+  text-align: right;
+}
+
+.timer {
+  font-family: 'Abel';
+}

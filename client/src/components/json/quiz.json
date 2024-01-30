@@ -1,0 +1,302 @@
+[
+    {
+      "question": "Je suis à l’origine de la loi sur l’Interruption Volontaire de Grossesse (IVG)",
+      "choixA": "Samantha Cristoforetti",
+      "choixB": "Simone Veil",
+      "choixC": "Lou Salomé",
+      "choixD": "Cécile Belisle",
+      "correct": "B",
+      "niveau": "FACILE",
+      "image": "images/default.jpg"
+    },
+    {
+      "question": "Je suis la créatrice du talkshow le plus visionné des Etats-Unis",
+      "choixA": "Mary Barra",
+      "choixB": "Joséphine Baker",
+      "choixC": "Irina Shayk",
+      "choixD": "Oprah Winfrey",
+      "correct": "D",
+      "niveau": "FACILE",
+      "image": "images/default.jpg"
+    },
+    {
+      "question": "Je suis la première femme à être allée dans l’espace",
+      "choixA": "Anna Kournikova",
+      "choixB": "Valentina Terechkova",
+      "choixC": "Kathrine Switzer",
+      "choixD": "Louise Benedict",
+      "correct": "B",
+      "niveau": "FACILE",
+      "image": "images/default.jpg"
+    },
+    {
+      "question": "J’ai refusé de céder ma place à un passager blanc dans un bus et ainsi provoqué une prise de conscience dans la lutte pour les droits civiques",
+      "choixA": "Winona LaDuke",
+      "choixB": "Elena Maseras",
+      "choixC": "Rosa Parks",
+      "choixD": "Aurelia Browder",
+      "correct": "C",
+      "niveau": "FACILE",
+      "image": "images/default.jpg"
+    },
+    {
+      "question": "Je suis à l’origine du mouvement MeToo",
+      "choixA": "Margaret Atwood",
+      "choixB": "Michelle Williams",
+      "choixC": "Ava DuVerney",
+      "choixD": "Tarana Burke",
+      "correct": "D",
+      "niveau": "FACILE",
+      "image": "images/default.jpg"
+    },
+    {
+      "question": "Je suis la première femme française à recevoir le prix Nobel de littérature",
+      "choixA": "Annie Ernaux",
+      "choixB": "Nadine Gordimer",
+      "choixC": "Jody Williams",
+      "choixD": "Esther Duflo",
+      "correct": "A",
+      "niveau": "FACILE",
+      "image": "images/default.jpg"
+    },
+    {
+      "question": "Je suis la plus jeune parlementaire élue au Congrès des Etats-Unis",
+      "choixA": "Michelle Caruso-Cabrera",
+      "choixB": "Alexandria Ocasio-Cortez",
+      "choixC": "Elizabeth Perri",
+      "choixD": "Nancy Pelosi",
+      "correct": "B",
+      "niveau": "FACILE",
+      "image": "images/test.jpg"
+    },
+    {
+      "question": "Lors de vacances avec ma famille, j’ai été arrêtée et battue par la police des mœurs iraniennes, en 2022. Ma mort a entraîné des manifestations contre le régime en place",
+      "choixA": "Mahsa Amini",
+      "choixB": "Maha Khaled",
+      "choixC": "Wafah Eisaa",
+      "choixD": "Gida Aboud",
+      "correct": "A",
+      "niveau": "FACILE",
+      "image": "images/default.jpg"
+    },
+    {
+      "question": "Ancienne Première ministre, je suis la première femme française à occuper la fonction de chef du gouvernement",
+      "choixA": "Suzanne Lacore",
+      "choixB": "Edith Cresson",
+      "choixC": "Nicole Questiaux",
+      "choixD": "Germaine Poinso-Chapuis",
+      "correct": "B",
+      "niveau": "FACILE",
+      "image": "images/default.jpg"
+    },
+    {
+      "question": "Je suis la première femme à occuper la fonction de présidente de l’Assemblée nationale en juin 2022",
+      "choixA": "Brigitte Alain",
+      "choixB": "Rachida Dati",
+      "choixC": "Henriette Bosquier",
+      "choixD": "Yaël Braun-Pivet",
+      "correct": "D",
+      "niveau": "FACILE",
+      "image": "images/test.jpg"
+    },
+    {
+        "question": "J’ai découvert la forme en double hélice de l’ADN et je l’ai immortalisée au travers un cliché",
+        "choixA": "Rosalind Franklin",
+        "choixB": "Donna Strickland",
+        "choixC": "Rosalyn Yalow",
+        "choixD": "Tu Youyou",
+        "correct": "A",
+        "niveau": "INTERMEDIAIRE",
+        "image": "images/default.jpg"
+    },
+    {
+        "question": "Me faisant passer pour un homme dénommé Jacques Barret, je suis la première femme à faire le tour du monde en 1767",
+        "choixA": "Catherine Deneuve",
+        "choixB": "Rosa Bonheur",
+        "choixC": "Jeanne Barret",
+        "choixD": "Sophie Tostopchine",
+        "correct": "C",
+        "niveau": "INTERMEDIAIRE",
+        "image": "images/default.jpg"
+    },
+    {
+        "question": "J’ai pris le risque de ne pas mettre le voile en Egypte pour défendre le droit des femmes",
+        "choixA": "Huda Sha’arawi",
+        "choixB": "Aya Djédefrê",
+        "choixC": "Isis Osman",
+        "choixD": "Bérénice Orion",
+        "correct": "A",
+        "niveau": "INTERMEDIAIRE",
+        "image": "images/test.jpg"
+    },
+    {
+        "question": "Terme qui désigne les cas où les femmes sont écartées des remises de prix malgré leurs travaux au profit de leur collègue masculin",
+        "choixA": "Effet Dunning-Kruger",
+        "choixB": "Effet Kübler-Ross",
+        "choixC": "Effet Matilda",
+        "choixD": "Effet d’Ekbom",
+        "correct": "C",
+        "niveau": "INTERMEDIAIRE",
+        "image": "images/test.jpg"
+    },
+    {
+        "question": "Première ministre de Nouvelle-Zélande, j’ai fortement combattu pour le bien de mon pays avant de me retirer en janvier 2023",
+        "choixA": "Jacinda Adern",
+        "choixB": "Jeannette Fitzsimons",
+        "choixC": "Cindy Kiro",
+        "choixD": "Julie Anne Genter",
+        "correct": "A",
+        "niveau": "INTERMEDIAIRE",
+        "image": "images/default.jpg"
+    },
+    {
+        "question": "Avocate, je me sers de ma profession pour faire avancer le droit des femmes, notamment la loi sur l’IVG aux côtés de Simone Veil",
+        "choixA": "Gisèle Halimi",
+        "choixB": "Olga Petit",
+        "choixC": "Jeanne Chauvin",
+        "choixD": "Marie-Thérèse Cuvelier",
+        "correct": "A",
+        "niveau": "INTERMEDIAIRE",
+        "image": "images/default.jpg"
+    },
+    {
+        "question": "Alors interdit aux femmes, je suis la première à courir le marathon de Boston malgré que l’organisateur du marathon ait tenté de m’en empêcher",
+        "choixA": "Margaret Bourke-White",
+        "choixB": "Kathrine Switzer",
+        "choixC": "Elspeth Barbe",
+        "choixD": "Harriet Tubmann",
+        "correct": "B",
+        "niveau": "INTERMEDIAIRE",
+        "image": "images/test.jpg"
+    },
+    {
+        "question": "Décédé en septembre 2020, je suis la deuxième femme à siéger à la cour suprême, j’ai fait de l’égalité et de la justice sociale ma priorité",
+        "choixA": "Sandra Day O’Connor",
+        "choixB": "Grace Murray Hopper",
+        "choixC": "Joyce Jacobson Kaufman",
+        "choixD": "Ruth Bader Ginsburg",
+        "correct": "D",
+        "niveau": "INTERMEDIAIRE",
+        "image": "images/default.jpg"
+    },
+    {
+        "question" : "En 1926, je suis devenue la première femme à traverser la Manche à la nage",
+        "choixA" : "Laure Manaudou",
+        "choixB" : "Sabiha Gökçen",
+        "choixC" : "Gertrude Ederle",
+        "choixD" : "Marina Ginesta",
+        "correct": "C",
+        "niveau": "INTERMEDIAIRE",
+        "image": "images/test.jpg"
+    },
+    {
+        "question" : "Féministe et pionnière de la natation synchronisée, j’ai été arrêtée en 1907 après avoir posé lors d’un shooting photo en maillot de bain",
+        "choixA" : "Annette Kellerman",
+        "choixB" : "Simone Segouin",
+        "choixC" : "Maud Wagner",
+        "choixD" : "Jeanne Manford",
+        "correct": "A",
+        "niveau": "INTERMEDIAIRE",
+        "image": "images/test.jpg"
+    },
+    {
+        "question": "Footballeuse de haut niveau danoise, d’origine afghane, je participe activement dans le domaine de l’éducation en faveur des jeunes avec l’Unesco",
+        "choixA": "Aryana Sayeed",
+        "choixB": "Sharbat Gula",
+        "choixC": "Nadia Nadim",
+        "choixD": "Zahida Gula",
+        "correct": "C",
+        "niveau": "DIFFICILE",
+        "image": "images/default.jpg"
+    },
+    {
+        "question": "Je suis la première femme d’origine française à devenir médecin en 1875",
+        "choixA": "Elisa Lemmonier",
+        "choixB": "Elisabeth Garnier",
+        "choixC": "Madeleine Brès",
+        "choixD": "Anne Catherine Nativel",
+        "correct": "C",
+        "niveau": "DIFFICILE",
+        "image": "images/default.jpg"
+    },
+    {
+        "question": "Je suis la femme ayant fait l’hypothèse et démontrée scientifiquement l’existence de la matière noire",
+        "choixA": "Sandra Moore Faber",
+        "choixB": "Vera Rubin",
+        "choixC": "Margaret Burbidge",
+        "choixD": "Emmanuelle Charpentier",
+        "correct": "B",
+        "niveau": "DIFFICILE",
+        "image": "images/test.jpg"
+    },
+    {
+        "question": "Je suis la première française à pouvoir passer le baccalauréat en 1861 (1809 pour les hommes)",
+        "choixA": "Catherine Beaujolie",
+        "choixB": "Julie-Victoire Daubié",
+        "choixC": "Julie Duval",
+        "choixD": "Amélie Poulain",
+        "correct": "B",
+        "niveau": "DIFFICILE",
+        "image": "images/default.jpg"
+    },
+    {
+        "question": "Je suis militante pour sensibiliser les supplices que subissent l’ethnie maya des Quichés au Guatemala",
+        "choixA": "Rigoberta Menchu",
+        "choixB": "Wangari Maathai",
+        "choixC": "Shirin Ebadi",
+        "choixD": "Betty Williams",
+        "correct": "A",
+        "niveau": "DIFFICILE",
+        "image": "images/test.jpg"
+    },
+    {
+        "question": "Je suis la femme qui a découvert et mis en évidence les pulsars",
+        "choixA": "Gertrude Elion",
+        "choixB": "Barbara McClintock",
+        "choixC": "Linda Buck",
+        "choixD": "Jocelyn Bell",
+        "correct": "D",
+        "niveau": "DIFFICILE",
+        "image": "images/default.jpg"
+    },
+    {
+        "question": "Spationaute de l’Agence Spatiale Européenne, je suis celle qui a passé le plus long séjour dans l’espace (199 jours)",
+        "choixA": "Anna Fisher",
+        "choixB": "Samantha Cristoforetti",
+        "choixC": "Shannon Lucid",
+        "choixD": "Chiaki Mukai",
+        "correct": "B",
+        "niveau": "DIFFICILE",
+        "image": "images/test.jpg"
+    },
+    {
+        "question": "En 2022, je suis devenue la deuxième française à être recruté par l’Agence Spatiale Européenne pour effectuer des missions spatiales",
+        "choixA": "Sophie Adenot",
+        "choixB": "Julie Payette",
+        "choixC": "Jennifer Sidey",
+        "choixD": "Roberta Bondar",
+        "correct": "A",
+        "niveau": "DIFFICILE",
+        "image": "images/default.jpg"
+    },
+    {
+        "question" : "Je suis la première femme à avoir traversé l’océan atlantique en pilotant un avion",
+        "choixA" : "Mary Wells Patton",
+        "choixB" : "Amelia Otis",
+        "choixC" : "Mia Smith",
+        "choixD" : "Amelia Earhart",
+        "correct": "D",
+        "niveau": "DIFFICILE",
+        "image": "images/default.jpg"
+    },
+    {
+        "question" : "Professeure d’économie au MIT, j’ai reçu un prix Nobel dans ce domaine, ce qui fait de moi la première française à recevoir cette récompense",
+        "choixA" : "Esther Duflo",
+        "choixB" : "Clare Lombardelli",
+        "choixC" : "Laurence Boone",
+        "choixD" : "Natacha Valla",
+        "correct": "A",
+        "niveau": "DIFFICILE",
+        "image": "images/default.jpg"
+    }
+]
