@@ -6,6 +6,7 @@ import QuizContainer from './components/QuizContainer';
 import QuizContainerGold from './components/QuizContainerGold';
 import Login from './components/Login';
 import SignIn from './components/SignIn';
+import Dashboard from './components/Dashboard';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <Route path="/concours" element={<QuizContainerGold />} />
         <Route path='/login' element={<Login />} />
         <Route path='/signin' element={<SignIn />} />
+        <Route path='/Dashboard' element={<Dashboard />} />
       </Routes>
   </Router>
   );

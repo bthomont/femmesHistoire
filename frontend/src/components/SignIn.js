@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 const SignIn = () => {
     return (
-        <div className="h-[90vh] text-gray-900 flex justify-center">
+        <div className="text-gray-900 flex justify-center">
         <div className="max-w-screen-xl m-0 sm:m-10 bg-[rgba(255,255,255,0.05)] shadow sm:rounded-lg flex justify-center flex-1">
             <div className="lg:w-1/2 xl:w-5/12 p-6 sm:p-12 shadow-xl">
                 <div className="mt-4 flex flex-col items-center">
