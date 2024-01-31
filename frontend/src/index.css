@@ -39,7 +39,6 @@ h2 {
 .button:hover {
   background: rgb(214,10,132);
   background: linear-gradient(-150deg, #f04164 0%, #4b4fad 100%);
-
 }
 
 .buttonGold {

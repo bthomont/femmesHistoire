@@ -5,7 +5,7 @@ import Header from './components/Header';
 import QuizContainer from './components/QuizContainer';
 import QuizContainerGold from './components/QuizContainerGold';
 import Login from './components/Login';
-import SignIn from './components/SignIn';
+import SignUp from './components/SignUp';
 import Dashboard from './components/Dashboard';
 
 function App() {
@@ -17,7 +17,7 @@ function App() {
         <Route path="/quiz" element={<QuizContainer />} />
         <Route path="/concours" element={<QuizContainerGold />} />
         <Route path='/login' element={<Login />} />
-        <Route path='/signin' element={<SignIn />} />
+        <Route path='/signup' element={<SignUp />} />
         <Route path='/Dashboard' element={<Dashboard />} />
       </Routes>
   </Router>

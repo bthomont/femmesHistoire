@@ -32,14 +32,11 @@ function Login() {
                                         />
                                         <button
                                             onClick={togglePasswordVisibility}
-                                            className="absolute inset-y-0 right-0 pr-3 flex items-center text-sm leading-5"
+                                            className="absolute right-0 top-5 bottom-0 m-auto pr-3 text-md"
                                         >
                                             {showPassword ? <FiEyeOff /> : <FiEye />}
                                     </button>
-                                </div>
-                                    
-                                
-                                    
+                                </div>                                    
                                     
                                 <button
                                     className="mt-5 tracking-wide font-semibold bg-[rgba(255,255,255,0.2)] rounded-full p-4 hover:bg-gradient-to-r from-[#f04164] to-[#4b4fad] inline-block text-gray-100 w-full transition-all duration-300 ease-in-out flex items-center justify-center focus:shadow-outline focus:outline-none">
@@ -58,8 +55,6 @@ function Login() {
 
                             </div>
                                    
-
-
                             <button
                                     className="w-full max-w-xs shadow-sm rounded-lg py-3 bg-[rgba(255,255,255,0.1)] hover:bg-gradient-to-r from-[#f04164] to-[#4b4fad] text-white flex items-center justify-center transition-all duration-300 ease-in-out focus:outline-none hover:shadow focus:shadow-sm focus:shadow-outline">
                                     <div className="bg-[rgba(0,0,0,0.4)] p-2 rounded-full">
@@ -85,7 +80,7 @@ function Login() {
 
                             <p className="text-md text-gray-100 text-center mt-6 w-full rounded-md">
                                 Pas encore inscrit ?&nbsp;&nbsp;
-                                <a href="/signin" class="underline decoration-dotted  hover:font-extrabold hover:bg-gradient-to-r from-[#f04164] to-[#4b4fad] hover:inline-block hover:text-transparent hover:bg-clip-text hover:scale-105">
+                                <a href="/signup" class="underline decoration-dotted  hover:font-extrabold hover:bg-gradient-to-r from-[#f04164] to-[#4b4fad] hover:inline-block hover:text-transparent hover:bg-clip-text hover:scale-105">
                                     cliquez ici
                                 </a>
                             </p>
